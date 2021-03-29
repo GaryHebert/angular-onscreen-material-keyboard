@@ -50,7 +50,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.3",
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.5.4",
-    "karma-webpack": "^5.0.0",
+    "karma-webpack": "^4.0.2",
     "node": "^15.12.0",
     "open": "^8.0.4",
     "reset-css": "^5.0.1",
